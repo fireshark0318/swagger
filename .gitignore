@@ -1,1 +1,4 @@
 .vscode
+go.sum
+*.exe
+.DS_STORE
